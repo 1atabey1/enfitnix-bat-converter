@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EFC8811R-TF
+D RoHS compliance; 2.5 V drive; 2 kV ESD HBM; Common-Drain Type; ESD Diode-Protected Gate
+K
+F https://www.onsemi.com/pub/Collateral/EFC8811R-D.PDF
+$ENDCMP
+#
+#End Doc Library

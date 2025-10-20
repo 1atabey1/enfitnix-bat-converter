@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ298000RUGR
+D Battery Management High Side Protector for Single-Cell Li-Ion and Li-Polymer Batteries 8-X2QFN -40 to 85
+K
+F http://www.ti.com/lit/ds/symlink/bq2980.pdf
+$ENDCMP
+#
+#End Doc Library
