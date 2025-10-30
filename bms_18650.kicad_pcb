@@ -142,7 +142,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "gerbers/")
+			(outputdirectory "fab/gerbers/")
 		)
 	)
 	(net 0 "")
@@ -969,6 +969,7 @@
 		(property "Reference" "IC2"
 			(at 0 0.307 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "aafd2bef-250f-468d-bd9e-16af2858611e")
 			(effects
 				(font
@@ -1709,6 +1710,7 @@
 		(property "Reference" "IC1"
 			(at -0.15 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9781d797-3320-40fa-81a1-cbd5bc0da029")
 			(effects
 				(font
@@ -2381,6 +2383,32 @@
 			(font
 				(size 1 1)
 				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-"
+		(at 142.040207 100.914761 0)
+		(layer "F.SilkS")
+		(uuid "8ba07f8c-ae13-42ee-9ca4-3763037236f5")
+		(effects
+			(font
+				(size 2 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "+"
+		(at 156.498904 100.532473 0)
+		(layer "F.SilkS")
+		(uuid "b1d26087-44c6-4c11-9d8e-0aa882dd9591")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
