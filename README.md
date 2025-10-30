@@ -6,7 +6,7 @@ It's kinda hard to get these batteries (at least in Europe -> over 30€ for a s
 
 ## Order
 
-Any non-basic part has an LCSC part number attached so you can directly upload the files from _/fab_ to JLCPCB and order the fully assembled PCBs.
+Any non-basic part has an LCSC part number attached so you can directly upload the files from the latest [release](https://github.com/1atabey1/enfitnix-bat-converter/releases) to JLCPCB and order the fully assembled PCBs.
 
 ## Limitations
 
