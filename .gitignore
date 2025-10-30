@@ -1,3 +1,5 @@
 ~*
-#auto_saved_files#
+*auto_saved_files*
 *-backups
+_auto*
+*.bak

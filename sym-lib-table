@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "enfitnix_bat_connector")(type "KiCad")(uri "${KIPRJMOD}/footlib/enfitnix_bat_connector.kicad_sym")(options "")(descr ""))
+)
