@@ -1,8 +1,0 @@
-"Designator","Comment","Footprint","LCSC"
-"C1,C2","100n","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",""
-"IC1","BQ298218RUGR","ADS7056IRUGR","C36857140"
-"IC2","EFC8811R-TF","EFC8811RTF","C895369"
-"R3","330R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",""
-"R4","20R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",""
-"R5","2K","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",""
-"R_SEN1","0R001","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","C4337252"
