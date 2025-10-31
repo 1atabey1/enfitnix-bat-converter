@@ -3,3 +3,5 @@
 *-backups
 _auto*
 *.bak
+fab/*
+*.zip
