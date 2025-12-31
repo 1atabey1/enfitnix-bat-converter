@@ -1,5 +1,7 @@
 # ENFITNIX Battery Converter
 
+**NOTE: The current release (1.0.0) is not functional without workarounds. See [issues](https://github.com/1atabey1/enfitnix-bat-converter/issues) for more info.**
+
 Bike lights by Enfitnix use the quite common 18650 form factor for their batteries. However, they require a very specific protection PCB that exposes both poles of the battery in two concentric circles on one side.
 
 It's kinda hard to get these batteries (at least in Europe -> over 30€ for a single [battery](https://de.grandado.com/products/enfitnix-navi800-fahrrad-licht-lg-3350mah-akku-integrierte-hohe-prazision-batterie)!!!), so this custom PCB offers the option of converting almost any 18650 battery into one that fits your bike light for a BOM cost of just around 1€.
