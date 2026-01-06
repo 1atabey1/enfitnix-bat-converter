@@ -69,7 +69,7 @@
 	(pad "1" smd custom
 		(at 0 0)
 		(size 1.524 1.524)
-		(layers "B.Cu" "B.Paste")
+		(layers "B.Cu" "B.Mask" "B.Paste")
 		(options
 			(clearance outline)
 			(anchor circle)
@@ -103,7 +103,7 @@
 	(pad "2" smd custom
 		(at -6 0)
 		(size 1.524 1.524)
-		(layers "B.Cu" "B.Paste")
+		(layers "B.Cu" "B.Mask" "B.Paste")
 		(options
 			(clearance outline)
 			(anchor circle)
