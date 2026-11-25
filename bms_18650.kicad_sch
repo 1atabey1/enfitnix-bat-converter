@@ -1133,18 +1133,6 @@
 		(uuid "2469aa5e-e97a-406d-a79a-e19821865f7b")
 	)
 	(junction
-		(at 203.2 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "370b9f3a-38f6-4358-9c23-4cfa4e6b3a79")
-	)
-	(junction
-		(at 160.02 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3c2eb1a7-a53a-469e-8f00-be65389de870")
-	)
-	(junction
 		(at 134.62 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1197,12 +1185,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4f6b4e2-9a4b-4a0b-bcbc-c084c6e0809f")
-	)
-	(junction
-		(at 175.26 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ecaec767-7d1d-44c7-a50a-c326c1b7e978")
 	)
 	(wire
 		(pts
@@ -1276,16 +1258,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 128.27) (xy 203.2 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2031780a-e381-438c-b9b6-d40c93acf31c")
-	)
-	(wire
-		(pts
 			(xy 87.63 83.82) (xy 87.63 128.27)
 		)
 		(stroke
@@ -1323,16 +1295,6 @@
 			(type default)
 		)
 		(uuid "33d5c37d-c817-4592-9d5d-ecfe0a75aba9")
-	)
-	(wire
-		(pts
-			(xy 175.26 104.14) (xy 175.26 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34d85202-c24e-4d8d-af9e-4fd512bdd62d")
 	)
 	(wire
 		(pts
@@ -1383,16 +1345,6 @@
 			(type default)
 		)
 		(uuid "6b4794ae-b1be-4b2a-9ad7-a161e1d0bc5a")
-	)
-	(wire
-		(pts
-			(xy 160.02 128.27) (xy 175.26 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6ec3849b-04c5-4f98-b727-f567b6521862")
 	)
 	(wire
 		(pts
@@ -1774,6 +1726,76 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(junction
+		(at 160.02 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d83c1c2e-1a15-45d1-aa73-2c99044b4101")
+	)
+	(wire
+		(pts
+			(xy 160.02 116.84) (xy 165.1 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2817b0dd-15ac-41f7-9e37-3ef51be4acea")
+	)
+	(wire
+		(pts
+			(xy 175.26 104.14) (xy 177.8 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b673d8ce-3d6a-42ae-80b7-c669d60bcc1b")
+	)
+	(global_label "LINK-"
+		(shape output)
+		(at 177.8 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "301d0c11-b501-48e0-a538-73235592930c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 186.591 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LINK-"
+		(shape output)
+		(at 165.1 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "efa8739a-8f9a-4db0-88b1-598bce5c6a22")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 173.891 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2491,7 +2513,7 @@
 				)
 			)
 		)
-		(property "Value" "330R"
+		(property "Value" "300R"
 			(at 119.38 97.79 90)
 			(effects
 				(font
